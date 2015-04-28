@@ -14,5 +14,5 @@ Animated pre-lollipop devices compatible buttons and elegent AES encrypted used 
 
 This repository can be used for simple encryption example and understanding 128 AES class encryption ...
       SIMPLE AND EASY 
-      HAPPY CODING NEWS
+      HAPPY CODING FOLKS
 
