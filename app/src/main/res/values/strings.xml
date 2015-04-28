@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureCard</string>
+
+    <string name="hello_world">Please Enter valid Email to check your card</string>
+    <string name="action_settings">Decrypt</string>
+    <string name="title_activity_decryption">Email please</string>
+</resources>
